@@ -1,6 +1,6 @@
 // tax calculation function
 function calculateTax(amount) {
-    return amount * 0.15;
+    return amount * 0.1;
 }
 // convert uppercase to lower case function
 function convertToUpperCase(text) {
